@@ -1,2 +1,2 @@
 # senac-tat-
-pronto para trabalhar em ti 
+estudando para entrar em empresa de ti
